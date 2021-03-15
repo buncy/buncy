@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing amazing websites, ML-AI, animations, game-design and much more.
 - 🌱 I’m currently learning threeJs,High performance computing.
 - 💞️ I’m looking to collaborate on react component libraries.
-- 📫 How to reach me at kbokkesam@gmail.com
+- 📫 How to reach me? =>> kbokkesam@gmail.com
 
 <!---
 buncy/buncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
